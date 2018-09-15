@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 /**
  * @param {org.acme.model.Create} _create
  * @transaction
